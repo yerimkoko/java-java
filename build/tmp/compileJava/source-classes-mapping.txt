@@ -4,8 +4,6 @@ InfLearn/lec04/ProcurementDocument.java
  InfLearn.lec04.ProcurementDocument
 lec04/Scan2.java
  lec04.Scan2
-InfLearn/lec04/practiceUserVo.java
- InfLearn.lec04.practiceUserVo
 InfLearn/lec03/Sample03.java
  InfLearn.lec03.Sample03
 InfLearn/lec02/CaseLogic02.java
@@ -14,16 +12,18 @@ InfLearn/lec03/Sample02.java
  InfLearn.lec03.Sample02
 InfLearn/Array05.java
  InfLearn.Array05
+InfLearn/practice/practiceUserVo.java
+ InfLearn.practice.practiceUserVo
 lec03/Scan.java
  lec03.Scan
 lec05/Theory1.java
  lec05.Theory1
+InfLearn/practice/practiceUserDocument.java
+ InfLearn.practice.practiceUserDocument
 InfLearn/lec02/ForLoop.java
  InfLearn.lec02.ForLoop
-InfLearn/lec04/ObjClass01.java
- InfLearn.lec04.ObjClass01
-InfLearn/lec04/practiceUserDocument.java
- InfLearn.lec04.practiceUserDocument
+InfLearn/PrimitiveType04.java
+ InfLearn.PrimitiveType04
 lec05/Scan3.java
  lec05.Scan3
 InfLearn/lec02/WhileLoop04.java
@@ -36,21 +36,25 @@ InfLearn/lec03/Sample01.java
  InfLearn.lec03.Sample01
 lec02/Hello2.java
  lec02.Hello2
+InfLearn/practice/practiceClass01.java
+ InfLearn.practice.practiceClass01
 InfLearn/lec04/ProcureItemDocument.java
  InfLearn.lec04.ProcureItemDocument
 lec03/practice.java
  lec03.practice
-InfLearn/lec04/practiceClass01.java
- InfLearn.lec04.practiceClass01
 InfLearn/lec02/DoWhile05.java
  InfLearn.lec02.DoWhile05
 lec04/Parrot.java
  lec04.Parrot
 InfLearn/lec02/ifLogic01.java
  InfLearn.lec02.ifLogic01
+InfLearn/lec04/ObjClass01.java
+ InfLearn.lec04.ObjClass01
 lec01/Hello.java
  lec01.Hello
-InfLearn/PrimitiveType04.java
- InfLearn.PrimitiveType04
 InfLearn/lec04/ObjClass02.java
  InfLearn.lec04.ObjClass02
+InfLearn/practice/ObjClass02Practice.java
+ InfLearn.practice.ObjClass02Practice
+InfLearn/lec04/ObjClass03.java
+ InfLearn.lec04.ObjClass03

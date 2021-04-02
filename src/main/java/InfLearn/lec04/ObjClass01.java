@@ -4,7 +4,7 @@ public class ObjClass01 {
     public static void main(String[] args) {
         ProcureItemVO procureItemVO = new ProcureItemVO(); // procure
 
-        System.out.println("아무 것도 셋팅하지 않은 객체::: " + procureItemVO.toString());
+        System.out.println("아무 것도 셋팅하지 않은 객체::: " + procureItemVO);
 
         procureItemVO.setId(1);
         procureItemVO.setName("옥수수");
@@ -12,6 +12,8 @@ public class ObjClass01 {
         procureItemVO.setQuantity(2);
 
         System.out.println("옥수수 vo : " + procureItemVO.toString());
+
+        System.out.println(procureItemVO.getPrice());
 
         ProcureItemVO procureItemVoNull = null; // 변수명: 참조변수의 주소값,, exception : 예외처리.. 에러라고 표현 많이 함. 에러 !== 예외
 

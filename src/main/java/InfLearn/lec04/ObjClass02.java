@@ -15,6 +15,7 @@ public class ObjClass02 {
         procurementDocument.estimateDocumentQty = 25;
 
         System.out.println(procurementDocument.procureRequestDocumentQty);
+        System.out.println(procurementDocument2.procureRequestDocumentQty);
         System.out.println(procurementDocument.orderRequestDocumentQty);
         System.out.println(procurementDocument.orderDocumentQty);
         System.out.println(procurementDocument.contractDocumentQty);

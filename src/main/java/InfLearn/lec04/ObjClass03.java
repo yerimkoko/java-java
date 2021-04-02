@@ -7,11 +7,14 @@ public class ObjClass03 {
         procureItemDocument.id = 1;
         procureItemDocument.procureItemName = "의자";
         procureItemDocument.procureItemUnitName = "개";
-        procureItemDocument.procureItemPrice = 1000;
-        procureItemDocument.procureItemQty = 1;
+        procureItemDocument.procureItemPrice = 2000;
+        procureItemDocument.procureItemQty = 5;
 
         int addItemQtyPrice = procureItemDocument.addProcureItemQtyPrice();
-        System.out.println("addItemQtyPrice:::" + addItemQtyPrice);
+
+        System.out.println(addItemQtyPrice);
+        System.out.println("addItemQtyPrice:::" + procureItemDocument.addProcureItemQtyPrice());
+        System.out.println(procureItemDocument.procureItemPrice);
         String concatStrval = procureItemDocument.concatStringValues();
         System.out.println("concatsStrVal:::"+concatStrval);
 
