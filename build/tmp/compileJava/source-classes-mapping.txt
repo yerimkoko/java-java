@@ -1,40 +1,56 @@
 lec01/Main.java
  lec01.Main
-lec05/Scan3.java
- lec05.Scan3
-InfLearn/lec02/WhileLoop04.java
- InfLearn.lec02.WhileLoop04
-inflearnLec01.java
- inflearnLec01
-InfLearn/lec03/Sample01.java
- InfLearn.lec03.Sample01
-lec02/Hello2.java
- lec02.Hello2
+InfLearn/lec04/ProcurementDocument.java
+ InfLearn.lec04.ProcurementDocument
 lec04/Scan2.java
  lec04.Scan2
-lec03/practice.java
- lec03.practice
+InfLearn/lec04/practiceUserVo.java
+ InfLearn.lec04.practiceUserVo
+InfLearn/lec03/Sample03.java
+ InfLearn.lec03.Sample03
 InfLearn/lec02/CaseLogic02.java
  InfLearn.lec02.CaseLogic02
-InfLearn/lec02/DoWhile05.java
- InfLearn.lec02.DoWhile05
-lec04/Parrot.java
- lec04.Parrot
+InfLearn/lec03/Sample02.java
+ InfLearn.lec03.Sample02
 InfLearn/Array05.java
  InfLearn.Array05
 lec03/Scan.java
  lec03.Scan
 lec05/Theory1.java
  lec05.Theory1
-lec01/Hello.java
- lec01.Hello
 InfLearn/lec02/ForLoop.java
  InfLearn.lec02.ForLoop
-InfLearn/PrimitiveType04.java
- InfLearn.PrimitiveType04
+InfLearn/lec04/ObjClass01.java
+ InfLearn.lec04.ObjClass01
+InfLearn/lec04/practiceUserDocument.java
+ InfLearn.lec04.practiceUserDocument
+lec05/Scan3.java
+ lec05.Scan3
+InfLearn/lec02/WhileLoop04.java
+ InfLearn.lec02.WhileLoop04
+InfLearn/lec04/ProcureItemVO.java
+ InfLearn.lec04.ProcureItemVO
+inflearnLec01.java
+ inflearnLec01
+InfLearn/lec03/Sample01.java
+ InfLearn.lec03.Sample01
+lec02/Hello2.java
+ lec02.Hello2
+InfLearn/lec04/ProcureItemDocument.java
+ InfLearn.lec04.ProcureItemDocument
+lec03/practice.java
+ lec03.practice
+InfLearn/lec04/practiceClass01.java
+ InfLearn.lec04.practiceClass01
+InfLearn/lec02/DoWhile05.java
+ InfLearn.lec02.DoWhile05
+lec04/Parrot.java
+ lec04.Parrot
 InfLearn/lec02/ifLogic01.java
  InfLearn.lec02.ifLogic01
-InfLearn/lec03/Sample02.java
- InfLearn.lec03.Sample02
-InfLearn/lec03/Sample03.java
- InfLearn.lec03.Sample03
+lec01/Hello.java
+ lec01.Hello
+InfLearn/PrimitiveType04.java
+ InfLearn.PrimitiveType04
+InfLearn/lec04/ObjClass02.java
+ InfLearn.lec04.ObjClass02
