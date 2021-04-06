@@ -16,7 +16,7 @@ public class ObjClass03 {
         System.out.println("addItemQtyPrice:::" + procureItemDocument.addProcureItemQtyPrice());
         System.out.println(procureItemDocument.procureItemPrice);
         String concatStrval = procureItemDocument.concatStringValues();
-        System.out.println("concatsStrVal:::"+concatStrval);
+        System.out.println("concatsStrVal:::" + concatStrval);
 
     }
 }

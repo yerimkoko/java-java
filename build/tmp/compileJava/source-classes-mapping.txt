@@ -56,5 +56,45 @@ InfLearn/lec04/ObjClass02.java
  InfLearn.lec04.ObjClass02
 InfLearn/practice/ObjClass02Practice.java
  InfLearn.practice.ObjClass02Practice
+InfLearn/lec05/ObjClass05.java
+ InfLearn.lec05.ObjClass05
+InfLearn/lec05/Electronics.java
+ InfLearn.lec05.Electronics
 InfLearn/lec04/ObjClass03.java
  InfLearn.lec04.ObjClass03
+InfLearn/lec05/SamsungElectronics.java
+ InfLearn.lec05.SamsungElectronics
+InfLearn/lec07/vo/chemical/LotteChemical.java
+ InfLearn.lec07.vo.chemical.LotteChemical
+InfLearn/lec07/vo/chemical/Hcc.java
+ InfLearn.lec07.vo.chemical.Hcc
+InfLearn/lec07/vo/elecronics/LgElectronics.java
+ InfLearn.lec07.vo.elecronics.LgElectronics
+InfLearn/lec07/vo/chemical/LgChem.java
+ InfLearn.lec07.vo.chemical.LgChem
+InfLearn/lec07/vo/elecronics/SamsungElectronics.java
+ InfLearn.lec07.vo.elecronics.SamsungElectronics
+InfLearn/lec07/vo/elecronics/SKHynix.java
+ InfLearn.lec07.vo.elecronics.SKHynix
+InfLearn/lec08/vo/electronics/SKhynix.java
+ InfLearn.lec08.vo.electronics.SKhynix
+InfLearn/lec08/vo/electronics/SamsungElectronics.java
+ InfLearn.lec08.vo.electronics.SamsungElectronics
+InfLearn/lec07/main/MainMethod.java
+ InfLearn.lec07.main.MainMethod
+InfLearn/lec08/vo/chemical/LotteChemical.java
+ InfLearn.lec08.vo.chemical.LotteChemical
+InfLearn/lec08/vo/chemical/LGChem.java
+ InfLearn.lec08.vo.chemical.LGChem
+InfLearn/lec08/vo/electronics/LGElectronics.java
+ InfLearn.lec08.vo.electronics.LGElectronics
+InfLearn/lec08/vo/chemical/Hcc.java
+ InfLearn.lec08.vo.chemical.Hcc
+InfLearn/lec08/MainMethod.java
+ InfLearn.lec08.MainMethod
+InfLearn/lec08/machine/SetInfo.java
+ InfLearn.lec08.machine.SetInfo
+InfLearn/homework/main.java
+ InfLearn.homework.main
+InfLearn/homework/vo/beverage.java
+ InfLearn.homework.vo.beverage
