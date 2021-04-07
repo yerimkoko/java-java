@@ -94,7 +94,15 @@ InfLearn/lec07/vo/chemical/LotteChemical.java
  InfLearn.lec07.vo.chemical.LotteChemical
 InfLearn/lec04/ObjClass03.java
  InfLearn.lec04.ObjClass03
-InfLearn/homework/main.java
- InfLearn.homework.main
 InfLearn/homework/vo/Beverage.java
  InfLearn.homework.vo.Beverage
+InfLearn/ver2_lec01/MainMethod.java
+ InfLearn.ver2_lec01.MainMethod
+InfLearn/ver2_lec01/CocaCola.java
+ InfLearn.ver2_lec01.CocaCola
+InfLearn/ver2_lec01/Cola.java
+ InfLearn.ver2_lec01.Cola
+InfLearn/homework/main.java
+ InfLearn.homework.main
+InfLearn/ver2_lec01/PepsiCola.java
+ InfLearn.ver2_lec01.PepsiCola
