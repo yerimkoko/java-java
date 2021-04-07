@@ -36,11 +36,11 @@ public class main {
                 System.out.println("종료되었습니다.");
             }
 
-            whatYouChoose(chooseOne, scanner, beverage, remainder);
+            whatYouChoose(chooseOne, scanner, beverage);
         }
     }
 
-    public static void whatYouChoose(int chooseOne, Scanner scanner, Beverage beverage, int remainder) {
+    public static void whatYouChoose(int chooseOne, Scanner scanner, Beverage beverage) {
         if (chooseOne == 1) {
             System.out.println("구입하기 버튼을 클릭하셨습니다.");
             System.out.println("얼마를 자판기에 투입하시겠습니까?");
