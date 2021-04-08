@@ -1,7 +1,7 @@
 package InfLearn.homework.vo;
 
 public class Beverage {
-    private int remainingQuantity = 10; // 음료수의 남은 수량
+    private int remainingQuantity;
     private int theQuantityToBuy; // 구매할 수량
     private int inputAmount; // 투입 금액
     private int changes; // 거스름돈

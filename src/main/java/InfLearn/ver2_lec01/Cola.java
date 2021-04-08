@@ -11,5 +11,7 @@ public class Cola {
     public void showColaName(String getColaName) {
         colaName = String.valueOf(getColaName);
         System.out.println("콜라 이름 :::" + colaName);
+        System.out.println("콜라 이름 :" + getColaName);
     }
+
 }
