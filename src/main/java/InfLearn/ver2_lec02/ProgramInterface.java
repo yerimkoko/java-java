@@ -1,11 +1,11 @@
 package InfLearn.ver2_lec02;
 
 public interface ProgramInterface {
-    public void start();
+    void start();
 
-    public void stop();
+    void stop();
 
-    public void run();
+    void run();
 
-    public void shutdown();
+    void shutdown();
 }

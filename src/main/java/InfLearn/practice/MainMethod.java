@@ -8,7 +8,7 @@ public class MainMethod {
         pandaBear.showBearName("pubao");
         pandaBear.whereIsPubao("pubao");
         iceBear.showBearName("icebear");
-        iceBear.whereIsIceBear("icebear");
+        iceBear.whereIsIceBear();
         pandaBear.showBearProperty();
     }
 }
